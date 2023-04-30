@@ -1,0 +1,39 @@
+{
+    "Triet": {
+        "password": "123",
+        "friends": [
+            "Tuan",
+            "Vinh",
+            "Duc"
+        ]
+    },
+    "Huy": {
+        "password": "123",
+        "friends": [
+            "Tuan",
+            "Vinh",
+            "Duc"
+        ]
+    },
+    "Tuan": {
+        "password": "123",
+        "friends": [
+            "Huy",
+            "Triet"
+        ]
+    },
+    "Vinh": {
+        "password": "123",
+        "friends": [
+        "Triet",
+        "Huy"
+        ]
+    },
+    "Duc": {
+        "password": "1234",
+        "friends": [
+        "Huy",
+        "Triet"
+        ]
+    }
+}
